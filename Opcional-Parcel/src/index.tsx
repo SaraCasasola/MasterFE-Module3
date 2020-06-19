@@ -11,7 +11,6 @@ ReactDOM.render(
         <img src={LogoImg}/>
     </header>    
     <p className="texto">Hola mundo</p>    
-    <p className="entorno">Estamos en el entorno de {process.env.ENVIRONMENT}</p>
   </div>,
   document.getElementById("root")
 );
