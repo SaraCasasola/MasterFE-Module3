@@ -11,7 +11,7 @@
     "build": "rimraf dist && webpack --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sara Casasola Borrego",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.10.1",

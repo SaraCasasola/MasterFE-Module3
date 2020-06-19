@@ -12,7 +12,7 @@
     "start": "run-p -l type-check:watch start:dev"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sara Casasola Borrego",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^14.0.13",

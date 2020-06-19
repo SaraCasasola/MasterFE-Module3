@@ -14,7 +14,7 @@
     "build:perf": "rimraf dist && webpack --config webpack.perf.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sara Casasola Borrego",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
